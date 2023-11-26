@@ -1,0 +1,1 @@
+echo "file 3 is added to main "
